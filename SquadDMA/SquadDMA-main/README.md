@@ -33,8 +33,3 @@ To Update: Use [Dumper-7](https://github.com/Encryqed/Dumper-7). it will get you
 * Config
   * Load
   * Save
-
-## Credits
-* [PCILeech](https://github.com/ufrisk/pcileech)
-* [MemProcFS](https://github.com/ufrisk/MemProcFS)
-* [DMALibrary](https://github.com/Metick/DMALibrary/tree/Master)
